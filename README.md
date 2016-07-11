@@ -5,7 +5,7 @@ You can use this script to connect to MySQL or MariaDB databases on a remote ser
 
 Author: *Andre Dixon*
 
-Website: [dredix.com](http://www.dredix.net)
+Website: [dredix.net](http://www.dredix.net)
 
 ## Note:
 - It is better to use this script over a secure (https) connection.
